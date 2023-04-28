@@ -1,0 +1,24 @@
+li a{
+    font-size: 18px;
+}
+#new{
+    width: 50px;
+    height: 50px;
+   align-items: center;
+   display: flex;
+}
+#anime{
+    width: 50px;
+    height: 50px;
+}
+#name{
+    color: #ffffff;
+}
+.image{
+     background-image: url('Book.jpg');
+     background-size: cover;
+     background-position: center;
+     background-attachment: fixed;
+     height: 350px;
+}
+
